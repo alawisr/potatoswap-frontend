@@ -91,9 +91,9 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" scale="xl" mb="24px" color="secondary">
-          {t('PancakeSwap')}
+          {t('PotatoSwap')}
         </Heading>
-        <Text>{t('The #1 AMM and yield farm on Binance Smart Chain.')}</Text>
+        <Text>{t('only on PotatoSwap do the lazy get rich')}</Text>
       </Hero>
       <div>
         <Cards>
